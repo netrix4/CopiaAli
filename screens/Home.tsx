@@ -16,7 +16,7 @@ export default function Home() {
     <SafeAreaView style={styles.mainScroll}>
       <View style={styles.mainContainer}>
         <View style={styles.headerWrapper}>
-          <Text style={styles.headerText}>AliExpress</Text>
+          <Text style={styles.headerText}>AliExpress Testttt</Text>
           <TextInput
             style={styles.inputStyle}
             placeholder="Busqueda"
