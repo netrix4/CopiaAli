@@ -21,7 +21,7 @@ export default function App() {
       </Stack.Navigator>
 
       {/* <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
+      <Text>Open up App.tsx to start working on your app! This is an edit test</Text>
       <StatusBar style="auto" />
     </View> */}
     </NavigationContainer>
